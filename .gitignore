@@ -1,0 +1,16 @@
+# 忽略 PyCharm/IDEA 的所有项目配置和缓存
+.idea/
+
+# 忽略 Python 编译产生的缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略虚拟环境目录
+venv/
+.venv/
+env/
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
