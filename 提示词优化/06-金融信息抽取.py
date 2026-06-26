@@ -3,7 +3,6 @@ import json
 
 client = OpenAI(
     # base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
-    api_key="sk-90a5a5552b30402fa2375d69a7548306",
     base_url="https://ws-xz8bi38oce1tyn6f.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
 )
 
